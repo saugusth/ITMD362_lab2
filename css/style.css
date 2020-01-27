@@ -1,9 +1,13 @@
-body{
-	background-color: yellow;
+body {
+  background-color: yellow;
 }
 
 @media (min-width: 800px) {
   body {
     background-color: lightgreen;
+  }
+
+  label {
+    margin-top: 90px;
   }
 }
