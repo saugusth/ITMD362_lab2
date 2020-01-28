@@ -7,7 +7,7 @@ label {
   margin-top: 25px;
 }
 
- @media (min-width: 800px) {
+ @media (min-width: 425px) {
   body {
     background-color: lightgreen;
   }
