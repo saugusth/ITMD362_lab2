@@ -12,6 +12,10 @@ input {
   border-radius: 4px;
 }
 
+h1{
+	font-size: 24px;
+}
+
 div{
 	margin-top: 20px;
 }
