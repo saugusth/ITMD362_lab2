@@ -3,15 +3,16 @@ body {
 }
 
 label {
-  display: block;
-  margin-top: 25px;
+  margin-top: 15px;
+  background-color: red;
+  background-size: 80%;
 }
 
 input {
   border: 2px solid blue;
   border-radius: 4px;
   display: block;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 h1 {
@@ -28,7 +29,7 @@ div {
   }
 
   label {
-    display: block;
+  	display: block;
     border: 80% blue;
     margin-top: 45px;
   }
@@ -36,7 +37,6 @@ div {
   input {
     border: 2px solid blue;
     border-radius: 4px;
-    display: block;
     margin-top: 0;
   }
 }
