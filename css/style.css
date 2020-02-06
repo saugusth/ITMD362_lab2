@@ -3,6 +3,7 @@ body {
 }
 
 label {
+	display:block;
   margin-top: 15px;
   background-color: red;
   background-size: 300px 100px;
@@ -10,9 +11,9 @@ label {
 }
 
 input {
+	display: block;
   border: 2px solid blue;
   border-radius: 4px;
-  display: block;
   margin-top: 10px;
   margin-bottom: 10px;
 }
