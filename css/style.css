@@ -14,12 +14,12 @@ input {
   margin-top: 20px;
 }
 
-h1{
-	font-size: 40px;
+h1 {
+  font-size: 40px;
 }
 
-div{
-	margin-top: 20px;
+div {
+  margin-top: 20px;
 }
 
 @media screen and (min-width: 480px) {
@@ -31,5 +31,12 @@ div{
     display: block;
     border: 80% blue;
     margin-top: 45px;
+  }
+
+  input {
+    border: 2px solid blue;
+    border-radius: 4px;
+    display: block;
+    margin-top: 0;
   }
 }
